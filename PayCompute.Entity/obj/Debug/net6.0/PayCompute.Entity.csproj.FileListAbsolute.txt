@@ -1,0 +1,11 @@
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\bin\Debug\net6.0\PayCompute.Entity.deps.json
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\bin\Debug\net6.0\PayCompute.Entity.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\bin\Debug\net6.0\PayCompute.Entity.pdb
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\obj\Debug\net6.0\PayCompute.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\obj\Debug\net6.0\PayCompute.Entity.AssemblyInfoInputs.cache
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\obj\Debug\net6.0\PayCompute.Entity.AssemblyInfo.cs
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\obj\Debug\net6.0\PayCompute.Entity.csproj.CoreCompileInputs.cache
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\obj\Debug\net6.0\PayCompute.Entity.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\obj\Debug\net6.0\refint\PayCompute.Entity.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\obj\Debug\net6.0\PayCompute.Entity.pdb
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Entity\obj\Debug\net6.0\ref\PayCompute.Entity.dll

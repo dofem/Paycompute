@@ -1,0 +1,17 @@
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\bin\Debug\net6.0\PayCompute.Persistence.deps.json
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\bin\Debug\net6.0\PayCompute.Persistence.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\bin\Debug\net6.0\PayCompute.Persistence.pdb
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\PayCompute.Persistence.csproj.AssemblyReference.cache
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\PayCompute.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\PayCompute.Persistence.AssemblyInfoInputs.cache
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\PayCompute.Persistence.AssemblyInfo.cs
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\PayCompute.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\PayCompu.DEA97580.Up2Date
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\PayCompute.Persistence.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\refint\PayCompute.Persistence.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\PayCompute.Persistence.pdb
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\ref\PayCompute.Persistence.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\bin\Debug\net6.0\PayCompute.Entity.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\bin\Debug\net6.0\PayCompute.Entity.pdb
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\bin\Debug\net6.0\PayCompute.Persistence.runtimeconfig.json
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Persistence\obj\Debug\net6.0\PayCompute.Persistence.genruntimeconfig.cache

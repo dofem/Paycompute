@@ -1,0 +1,17 @@
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\bin\Debug\net6.0\PayCompute.Services.deps.json
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\bin\Debug\net6.0\PayCompute.Services.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\bin\Debug\net6.0\PayCompute.Services.pdb
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\bin\Debug\net6.0\PayCompute.Persistence.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\bin\Debug\net6.0\PayCompute.Persistence.pdb
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\obj\Debug\net6.0\PayCompute.Services.csproj.AssemblyReference.cache
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\obj\Debug\net6.0\PayCompute.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\obj\Debug\net6.0\PayCompute.Services.AssemblyInfoInputs.cache
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\obj\Debug\net6.0\PayCompute.Services.AssemblyInfo.cs
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\obj\Debug\net6.0\PayCompute.Services.csproj.CoreCompileInputs.cache
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\obj\Debug\net6.0\PayCompu.B17D370B.Up2Date
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\obj\Debug\net6.0\PayCompute.Services.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\obj\Debug\net6.0\refint\PayCompute.Services.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\obj\Debug\net6.0\PayCompute.Services.pdb
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\obj\Debug\net6.0\ref\PayCompute.Services.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\bin\Debug\net6.0\PayCompute.Entity.dll
+C:\Users\FEMI\Desktop\DOTNET\PayCompute\PayCompute.Services\bin\Debug\net6.0\PayCompute.Entity.pdb
