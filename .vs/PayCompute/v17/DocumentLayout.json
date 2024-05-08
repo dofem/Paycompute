@@ -7,6 +7,38 @@
       "RelativeMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|solutionrelative:paycompute.presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.presentation\\models\\employeeeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|solutionrelative:paycompute.presentation\\models\\employeeeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.presentation\\models\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|solutionrelative:paycompute.presentation\\models\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0643CFE-E76A-49E7-B9B6-4AF724C5B9AB}|PayCompute.Persistence\\PayCompute.Persistence.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.persistence\\migrations\\20240506201523_changestomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0643CFE-E76A-49E7-B9B6-4AF724C5B9AB}|PayCompute.Persistence\\PayCompute.Persistence.csproj|solutionrelative:paycompute.persistence\\migrations\\20240506201523_changestomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA01F51B-027E-445C-80E0-7C36F321A644}|PayCompute.Entity\\PayCompute.Entity.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA01F51B-027E-445C-80E0-7C36F321A644}|PayCompute.Entity\\PayCompute.Entity.csproj|solutionrelative:paycompute.entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17C98B8-59C4-4603-A458-52A5A8F5338C}|PayCompute.Services\\PayCompute.Services.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.services\\paycompute.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C17C98B8-59C4-4603-A458-52A5A8F5338C}|PayCompute.Services\\PayCompute.Services.csproj|solutionrelative:paycompute.services\\paycompute.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0643CFE-E76A-49E7-B9B6-4AF724C5B9AB}|PayCompute.Persistence\\PayCompute.Persistence.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.persistence\\paycompute.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0643CFE-E76A-49E7-B9B6-4AF724C5B9AB}|PayCompute.Persistence\\PayCompute.Persistence.csproj|solutionrelative:paycompute.persistence\\paycompute.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA01F51B-027E-445C-80E0-7C36F321A644}|PayCompute.Entity\\PayCompute.Entity.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.entity\\paycompute.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA01F51B-027E-445C-80E0-7C36F321A644}|PayCompute.Entity\\PayCompute.Entity.csproj|solutionrelative:paycompute.entity\\paycompute.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.presentation\\paycompute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|solutionrelative:paycompute.presentation\\paycompute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.presentation\\models\\employeeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|solutionrelative:paycompute.presentation\\models\\employeeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C17C98B8-59C4-4603-A458-52A5A8F5338C}|PayCompute.Services\\PayCompute.Services.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17C98B8-59C4-4603-A458-52A5A8F5338C}|PayCompute.Services\\PayCompute.Services.csproj|solutionrelative:paycompute.services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17C98B8-59C4-4603-A458-52A5A8F5338C}|PayCompute.Services\\PayCompute.Services.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.services\\paycompute.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C17C98B8-59C4-4603-A458-52A5A8F5338C}|PayCompute.Services\\PayCompute.Services.csproj|solutionrelative:paycompute.services\\paycompute.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0643CFE-E76A-49E7-B9B6-4AF724C5B9AB}|PayCompute.Persistence\\PayCompute.Persistence.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.persistence\\migrations\\20240506150558_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{A0643CFE-E76A-49E7-B9B6-4AF724C5B9AB}|PayCompute.Persistence\\PayCompute.Persistence.csproj|solutionrelative:paycompute.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.presentation\\paycompute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{047C23DF-FDAD-4DC7-9097-0C356FE4E650}|PayCompute.Presentation\\PayCompute.csproj|solutionrelative:paycompute.presentation\\paycompute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA01F51B-027E-445C-80E0-7C36F321A644}|PayCompute.Entity\\PayCompute.Entity.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.entity\\unionmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA01F51B-027E-445C-80E0-7C36F321A644}|PayCompute.Entity\\PayCompute.Entity.csproj|solutionrelative:paycompute.entity\\unionmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA01F51B-027E-445C-80E0-7C36F321A644}|PayCompute.Entity\\PayCompute.Entity.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.entity\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA01F51B-027E-445C-80E0-7C36F321A644}|PayCompute.Entity\\PayCompute.Entity.csproj|solutionrelative:paycompute.entity\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA01F51B-027E-445C-80E0-7C36F321A644}|PayCompute.Entity\\PayCompute.Entity.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA01F51B-027E-445C-80E0-7C36F321A644}|PayCompute.Entity\\PayCompute.Entity.csproj|solutionrelative:paycompute.entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0643CFE-E76A-49E7-B9B6-4AF724C5B9AB}|PayCompute.Persistence\\PayCompute.Persistence.csproj|c:\\users\\femi\\desktop\\dotnet\\paycompute\\paycompute.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,20 +98,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmployeeIndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\Models\\EmployeeIndexViewModel.cs",
-              "RelativeDocumentMoniker": "PayCompute.Presentation\\Models\\EmployeeIndexViewModel.cs",
-              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\Models\\EmployeeIndexViewModel.cs",
-              "RelativeToolTip": "PayCompute.Presentation\\Models\\EmployeeIndexViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Title": "EmployeeEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\Models\\EmployeeEditViewModel.cs",
+              "RelativeDocumentMoniker": "PayCompute.Presentation\\Models\\EmployeeEditViewModel.cs",
+              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\Models\\EmployeeEditViewModel.cs",
+              "RelativeToolTip": "PayCompute.Presentation\\Models\\EmployeeEditViewModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T16:12:00.651Z",
+              "WhenOpened": "2024-05-07T11:38:54.334Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240506201523_changestomodel.cs",
+              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Persistence\\Migrations\\20240506201523_changestomodel.cs",
+              "RelativeDocumentMoniker": "PayCompute.Persistence\\Migrations\\20240506201523_changestomodel.cs",
+              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Persistence\\Migrations\\20240506201523_changestomodel.cs",
+              "RelativeToolTip": "PayCompute.Persistence\\Migrations\\20240506201523_changestomodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:15:23.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\Models\\EmployeeCreateViewModel.cs",
+              "RelativeDocumentMoniker": "PayCompute.Presentation\\Models\\EmployeeCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\Models\\EmployeeCreateViewModel.cs",
+              "RelativeToolTip": "PayCompute.Presentation\\Models\\EmployeeCreateViewModel.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:33:22.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PayCompute.Entity.csproj",
+              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\PayCompute.Entity.csproj",
+              "RelativeDocumentMoniker": "PayCompute.Entity\\PayCompute.Entity.csproj",
+              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\PayCompute.Entity.csproj",
+              "RelativeToolTip": "PayCompute.Entity\\PayCompute.Entity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T16:28:46.419Z"
             },
             {
               "$type": "Document",
@@ -101,27 +157,14 @@
               "RelativeDocumentMoniker": "PayCompute.Presentation\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "PayCompute.Presentation\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwHYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T16:09:30.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Services\\Implementation\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "PayCompute.Services\\Implementation\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Services\\Implementation\\EmployeeService.cs",
-              "RelativeToolTip": "PayCompute.Services\\Implementation\\EmployeeService.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwDgAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:21:00.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Services\\Interface\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "PayCompute.Services\\Interface\\IEmployeeService.cs",
@@ -129,25 +172,59 @@
               "RelativeToolTip": "PayCompute.Services\\Interface\\IEmployeeService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:15:49.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PayCompute.Services",
-              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Services\\PayCompute.Services.csproj",
-              "RelativeDocumentMoniker": "PayCompute.Services\\PayCompute.Services.csproj",
-              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Services\\PayCompute.Services.csproj",
-              "RelativeToolTip": "PayCompute.Services\\PayCompute.Services.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-06T15:15:07.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T15:15:49.256Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PayCompute.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Services\\PayCompute.Services.csproj",
+              "RelativeDocumentMoniker": "PayCompute.Services\\PayCompute.Services.csproj",
+              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Services\\PayCompute.Services.csproj",
+              "RelativeToolTip": "PayCompute.Services\\PayCompute.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T15:15:07.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "PayCompute.Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\Employee.cs",
+              "RelativeToolTip": "PayCompute.Entity\\Employee.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:15:40.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PayCompute.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
+              "RelativeDocumentMoniker": "PayCompute.Persistence\\PayCompute.Persistence.csproj",
+              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
+              "RelativeToolTip": "PayCompute.Persistence\\PayCompute.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T16:28:56.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Services\\Implementation\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "PayCompute.Services\\Implementation\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Services\\Implementation\\EmployeeService.cs",
+              "RelativeToolTip": "PayCompute.Services\\Implementation\\EmployeeService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:21:00.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20240506150558_initial.cs",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Persistence\\Migrations\\20240506150558_initial.cs",
               "RelativeDocumentMoniker": "PayCompute.Persistence\\Migrations\\20240506150558_initial.cs",
@@ -155,12 +232,11 @@
               "RelativeToolTip": "PayCompute.Persistence\\Migrations\\20240506150558_initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:05:59.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T15:05:59.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "PayCompute.Presentation\\appsettings.json",
@@ -173,6 +249,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "PayCompute.csproj",
+              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\PayCompute.csproj",
+              "RelativeDocumentMoniker": "PayCompute.Presentation\\PayCompute.csproj",
+              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\PayCompute.csproj",
+              "RelativeToolTip": "PayCompute.Presentation\\PayCompute.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T12:08:19.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\Models\\EmployeeIndexViewModel.cs",
+              "RelativeDocumentMoniker": "PayCompute.Presentation\\Models\\EmployeeIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\Models\\EmployeeIndexViewModel.cs",
+              "RelativeToolTip": "PayCompute.Presentation\\Models\\EmployeeIndexViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:12:00.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "PayCompute.Presentation\\Program.cs",
@@ -184,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Persistence\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PayCompute.Persistence\\ApplicationDbContext.cs",
@@ -196,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "UnionMember.cs",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\UnionMember.cs",
               "RelativeDocumentMoniker": "PayCompute.Entity\\UnionMember.cs",
@@ -208,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "StudentLoan.cs",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\StudentLoan.cs",
               "RelativeDocumentMoniker": "PayCompute.Entity\\StudentLoan.cs",
@@ -220,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "PayCompute.Entity\\PaymentMethod.cs",
@@ -232,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "PaymentRecord.cs",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\PaymentRecord.cs",
               "RelativeDocumentMoniker": "PayCompute.Entity\\PaymentRecord.cs",
@@ -244,19 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\Employee.cs",
-              "RelativeDocumentMoniker": "PayCompute.Entity\\Employee.cs",
-              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\Employee.cs",
-              "RelativeToolTip": "PayCompute.Entity\\Employee.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB4AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T12:15:40.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "TaxYear.cs",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Entity\\TaxYear.cs",
               "RelativeDocumentMoniker": "PayCompute.Entity\\TaxYear.cs",
@@ -268,19 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PayCompute.csproj",
-              "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\PayCompute.csproj",
-              "RelativeDocumentMoniker": "PayCompute.Presentation\\PayCompute.csproj",
-              "ToolTip": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\PayCompute.csproj",
-              "RelativeToolTip": "PayCompute.Presentation\\PayCompute.csproj",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-06T12:08:19.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Persistence\\Class1.cs",
               "RelativeDocumentMoniker": "PayCompute.Persistence\\Class1.cs",

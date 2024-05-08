@@ -31,6 +31,7 @@ namespace PayCompute.Entity
         public UnionMember UnionMember { get; set; }
         [Required, MaxLength(150)]
         public string Address { get; set; }
+        public string PhoneNumber { get; set; }
         public string City { get; set; }
         [Required, MaxLength(50)]
         public string Postcode { get; set; }

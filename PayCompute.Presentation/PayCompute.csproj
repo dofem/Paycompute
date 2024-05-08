@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-PayCompute.Presentation-132f0e9b-dab1-4853-a0b7-cc3c514f6f84</UserSecretsId>
   </PropertyGroup>
@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="wwwroot\images\employee\" />
   </ItemGroup>
 
 </Project>
