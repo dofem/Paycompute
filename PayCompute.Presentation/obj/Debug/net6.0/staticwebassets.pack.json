@@ -9,8 +9,88 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\Paycompute2.gif",
+      "PackagePath": "staticwebassets\\images\\Paycompute2.gif"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\240018734190447079Justin.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\240018734190447079Justin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\243609647190204129Jose.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\243609647190204129Jose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\243658178190831128Kira.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\243658178190831128Kira.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\243713898190447079Justin.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\243713898190447079Justin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\243729581191058102Lucas.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\243729581191058102Lucas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\243746816191903589Mike.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\243746816191903589Mike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\243816932192254095Paul.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\243816932192254095Paul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\243841743193437583Terillo.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\243841743193437583Terillo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\243900270192619599Sarah.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\243900270192619599Sarah.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\243954433190447079Justin.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\243954433190447079Justin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\244328696192920684Sunita.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\244328696192920684Sunita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\244402556192746525Anthony.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\244402556192746525Anthony.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\244424366195413195Joana.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\244424366195413195Joana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\244452082194459137Esther.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\244452082194459137Esther.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\244509280195048463Jack.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\244509280195048463Jack.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\244530365193933138Cindy.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\244530365193933138Cindy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\244554305194729418festus.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\244554305194729418festus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\images\\employee\\245329753190447079Justin.jpg",
+      "PackagePath": "staticwebassets\\images\\employee\\245329753190447079Justin.jpg"
     },
     {
       "Id": "C:\\Users\\FEMI\\Desktop\\DOTNET\\PayCompute\\PayCompute.Presentation\\wwwroot\\js\\site.js",

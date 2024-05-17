@@ -23,7 +23,7 @@ namespace PayCompute.Models
         [DataType(DataType.DateTime), Display(Name = "Date of Birth ")]
         public DateTime DOB { get; set; }
         [DataType(DataType.DateTime), Display(Name = "Date Joined ")]
-        public DateTime DateJoined { get; set; };
+        public DateTime DateJoined { get; set; }
         [Required(ErrorMessage = "Job Role is Required"), StringLength(100)]
         public string Designation { get; set; }
         [DataType(DataType.EmailAddress)]

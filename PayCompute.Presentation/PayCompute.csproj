@@ -8,17 +8,34 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="WkHtmlToPdf\wkhtmltox-0.12.6-1.msvc2015-win64.exe" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.29" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.29" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.29" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.29" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.29" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="RotativaCore" Version="4.1.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\PayCompute.Entity\PayCompute.Entity.csproj" />
     <ProjectReference Include="..\PayCompute.Services\PayCompute.Services.csproj" />
   </ItemGroup>
+
+	<ItemGroup>
+		<None Update="WkHtmlToPdf\wkhtmltoimage.exe">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Update="WkHtmlToPdf\wkhtmltopdf.exe">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Update="wkhtmltox-0.12.6-1.msvc2015-win64.exe" />
+		
+	</ItemGroup>
 
   <ItemGroup>
     <Folder Include="Data\" />

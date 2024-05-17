@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Hosting.Internal;
 using PayCompute.Entity;
 using PayCompute.Models;
@@ -6,6 +7,7 @@ using PayCompute.Services.Interface;
 
 namespace PayCompute.Controllers
 {
+    [Authorize]
     public class EmployeeController : Controller
     {
         private IEmployeeService _employeeService;
@@ -15,7 +17,7 @@ namespace PayCompute.Controllers
             _employeeService = employeeService;
             _hostingEnvironment = hostingEnvironment;
         }
-        public IActionResult Index()
+        public IActionResult Index(int?pageNumber)
         {
             var employees = _employeeService.GetAllEmployees().Select(employee => new EmployeeIndexViewModel
             {
@@ -28,7 +30,8 @@ namespace PayCompute.Controllers
                 City = employee.City,
                 DateJoined = employee.DateJoined,
             }).ToList();
-            return View(employees);
+            int pageSize = 4;
+            return View(EmployeeListPagination<EmployeeIndexViewModel>.Create(employees,pageNumber??1,pageSize));
         }
 
         [HttpGet]
@@ -50,6 +53,7 @@ namespace PayCompute.Controllers
                     Id = model.Id,
                     EmployeeNo = model.EmployeeNo,
                     FirstName = model.FirstName,
+                    MiddleName = model.MiddleName,
                     LastName = model.LastName,
                     FullName = model.FullName,
                     Gender = model.Gender,
@@ -74,10 +78,10 @@ namespace PayCompute.Controllers
                     var webRootPath = _hostingEnvironment.WebRootPath;
                     fileName = DateTime.Now.ToString("yymmssfff")+fileName+extension;
                     var path = Path.Combine(webRootPath,uploadDir, fileName);
-                    model.ImageUrl.CopyToAsync(new FileStream(path, FileMode.Create));
+                    await model.ImageUrl.CopyToAsync(new FileStream(path, FileMode.Create));
                     employee.ImageUrl = "/"+uploadDir+"/"+fileName;
                 }
-                _employeeService.CreateAsync(employee);
+                await _employeeService.CreateAsync(employee);
                 return RedirectToAction(nameof(Index));
             }
             else
@@ -164,5 +168,59 @@ namespace PayCompute.Controllers
             return View(model);
         }
 
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            var employee = _employeeService.GetById(id);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            EmployeeDetailViewModel model = new EmployeeDetailViewModel()
+            {
+                Id = employee.Id,
+                EmployeeNo = employee.EmployeeNo,
+                FullName = employee.FullName,
+                Gender = employee.Gender,
+                DOB = employee.DOB,
+                DateJoined = employee.DateJoined,
+                Designation = employee.Designation,
+                NationalInsuranceNo = employee.NationalInsuranceNo,
+                PhoneNumber = employee.PhoneNumber,
+                Email = employee.Email,
+                PaymentMethod = employee.PaymentMethod,
+                StudentLoan = employee.StudentLoan,
+                UnionMember = employee.UnionMember,
+                Address = employee.Address,
+                City = employee.City,
+                ImageUrl = employee.ImageUrl,
+                Postcode = employee.Postcode,
+            };
+            return View(model);
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var employee = _employeeService.GetById(id); 
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            var model = new EmployeeDeleteViewModel()
+            {
+                Id = employee.Id,
+                FullName = employee.FullName,
+            };
+            return View(model);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Delete(EmployeeDeleteViewModel model)
+        {
+            _employeeService.DeleteAsync(model.Id);
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
